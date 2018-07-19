@@ -1,0 +1,10 @@
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\PlutoTemplate.exe.config
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\PlutoTemplate.exe
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\PlutoTemplate.pdb
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\EntityFramework.dll
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\EntityFramework.xml
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\obj\Debug\PlutoTemplate.csprojResolveAssemblyReference.cache
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\obj\Debug\PlutoTemplate.exe
+D:\ProjectDocs\EntityFrameworkPractice\PlutoTemplate\obj\Debug\PlutoTemplate.pdb
